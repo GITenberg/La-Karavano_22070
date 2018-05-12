@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Wilhelm_Hauff
     - http://de.wikipedia.org/wiki/Wilhelm_Hauff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22070#La-Karavano
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-07-14'
 gutenberg_type: Text
